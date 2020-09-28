@@ -1,0 +1,12 @@
+# output result
+output*.m
+*.png
+
+# makefile 
+*.o
+
+# logfile
+*.log
+
+# Others
+.DS_Store
