@@ -1,5 +1,4 @@
-# sample makefile
-#
+# makefile template
 
 CC         := gcc
 LINKER     := $(CC)
